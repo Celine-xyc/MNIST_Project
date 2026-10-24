@@ -1,0 +1,21 @@
+# 数据集
+data/
+
+# 模型权重（本地保留，不上传）
+model.pth
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# IDE / 系统文件
+.vscode/
+.idea/
+.DS_Store
